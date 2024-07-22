@@ -8,8 +8,8 @@
       <div class="row fill">
         <div>
           <div class="col_wrap">
-            <h3>Lorem Ipsum is simply dummy.</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <h3>Planujesz swoją podróż?</h3>
+            <p>Oto kilka interesujących faktów na temat naszego przewodnika.</p>
           </div>
         </div>
       </div>
@@ -34,8 +34,8 @@
           </div>
         </div>
       </div>
-      <p class="paragraph">*Lorem Ipsum<sup>2</sup>
-        <br>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      <p class="paragraph">
+        Od cudów natury po obiektów historycznych - ten przewodnik obejmuje ponad 16 wyjątkowych miejsc, z których każde zasługuje na uwagę.
       </p>
       <a  href="/app" class="cta-container w-inline-block">
         <div class="cta__text">Przejdź do trasy</div>

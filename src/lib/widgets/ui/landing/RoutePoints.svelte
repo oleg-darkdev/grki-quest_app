@@ -10,7 +10,7 @@
         <div class="_850__wrap">
           <div class="centered_wrap">
             <div class="tag_green">Interaktywny przewodnik</div>
-            <h2 class="heading-2 center"> text of the printing and typesetting industry.</h2>
+            <h2 class="heading-2 center">Zawiera ponad 16 mało znanych lokalizacji z danymi historycznymi.</h2>
             <div class="wrap_buttons">
               <a href="/app" target="_blank" class="cta-container w-inline-block">
                 <div class="cta__text">Przejdź do trasy</div>

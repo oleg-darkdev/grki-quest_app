@@ -5,10 +5,10 @@
         <div class="col_50 hero">
           <div class="col_wrap">
             <div class="tag_green">
-              Lorem Ipsum is simply dummy text
+              Z miłością do Górek Zachodnich.
             </div>
-            <h1>Lorem Ipsum is <span class="highlight_text">simply dummy text</span>, of the printing and typesetting industry. </h1>
-            <p class="subhead">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+            <h1>GRKI - autorski <span class="highlight_text">interaktywny przewodnik</span> po Górkach Zachodnich. </h1>
+            <p class="subhead">Ciekawy asystent w odkrywaniu niesamowitych miejsc na Górkach Zachodnich.</p>
             <div class="wrap_buttons">
               <a  href="/app" class="cta-container w-inline-block">
                 <div class="cta__text">Przejdź do trasy</div>
