@@ -6,7 +6,7 @@
 
 
 <svelte:head>
-  <title>Title</title>
+  <title>Górki Zachodnie.</title>
 </svelte:head>
 
 
@@ -21,7 +21,7 @@
 <Locations />
 
 
-<!-- <DividerType2 /> -->
+<DividerType2 />
 
 
 <!-- <div class="section blue main">
@@ -78,12 +78,9 @@
 
 <!-- <Features /> -->
 
-
-
 <Faq />
 
-
-<Footer />
+<!-- <Footer /> -->
 
 <style>
 
