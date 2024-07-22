@@ -43,7 +43,7 @@
             <!-- </div> -->
             {/each}
 
-            <div  class="dropdown sports w-dropdown">
+            <!-- <div  class="dropdown sports w-dropdown">
               <div data-w-id="7cb2aff2-c386-0ae5-e092-9ed511552911" class="drop__toggle w-dropdown-toggle">
                 <div class="nav__text">Lorem impsum</div>
                 <img src="images/63762e7f7359609f60afc526_arrow-chevron-down.svg" loading="lazy" alt="" class="drop__icon">
@@ -65,7 +65,7 @@
                   </div>
                 </div>
               </nav>
-            </div>
+            </div> -->
 
             <div class="contact-button">
               <div  class="dropdown contact w-dropdown">
