@@ -1,5 +1,6 @@
 <script>
-  export let startedPosition;
+  // , step
+  export let startedPosition, selectedPosition;
 </script>
 
 <div role="listitem" class="slider-item w-dyn-item">
@@ -19,10 +20,13 @@
       </div>
     </div>
     <div class="cta__wrap">
-      <a  href="/" class="cta-container w-inline-block">
+      <button on:click={()=> {
+        selectedPosition = startedPosition;
+        // step++;
+      }} class="cta-container w-inline-block">
         <div class="cta__text">Rozpoczęcie trasy</div>
         <img src="images/63a183bd0c5c8e5ee8773811_arrow-right-white.svg" loading="lazy" alt="" class="cta__arrow">
-      </a>
+      </button>
     </div>
   </div>
 </div>
