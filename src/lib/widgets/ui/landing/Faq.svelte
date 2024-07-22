@@ -12,16 +12,14 @@
           <div class="_950__wrap center">
             <h2>Często zadawane pytania</h2>
           </div>
-          <div class="_650__wrap">
+          <div class="_850__wrap">
             <div class="column gap__24">
               <div id="bunker" class="faq-group">
                 <div class="collection-wrap w-dyn-list">
 
-
-
-                  <div role="list" class="column gap__8 w-dyn-items">
+                  <div role="list" class="column gap__8  w-dyn-items">
                     {#each faqData as faq}
-                    <div role="listitem" class="faq-item w-dyn-item">
+                    <div role="listitem" class="mx-auto faq-item w-dyn-item">
                       <div  class="faq-question-wrap">
                         <button on:click={()=> faq.showMore = !faq.showMore} class="faq-question-bar w-inline-block">
                           <div class="subhead">{faq.q}</div>
@@ -53,3 +51,8 @@
 </section>
 
 
+<style>
+.faq-item {
+  /* width: 100%; */
+}
+</style>
