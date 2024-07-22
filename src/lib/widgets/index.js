@@ -12,5 +12,20 @@ import DividerType2 from './ui/landing/DividerType2.svelte';
 // import LocationCard from './ui/landing/LocationCard.svelte';
 
 
-export { Footer, Nav, HeroType1, DividerApp, FullWidthImg, Features, Locations, Stats, Faq, RoutePoints, DividerType2  };
+
+
+import Free1 from './ui/landing/Free1.svelte';
+import Free2 from './ui/landing/Free2.svelte';
+import Free3 from './ui/landing/Free3.svelte';
+import Free4 from './ui/landing/Free4.svelte';
+import Free5 from './ui/landing/Free5.svelte';
+import Free6 from './ui/landing/Free6.svelte';
+import Free7 from './ui/landing/Free7.svelte';
+
+
+
+
+
+
+export { Free1, Free2, Free3, Free4, Free5, Free6, Free7, Footer, Nav, HeroType1, DividerApp, FullWidthImg, Features, Locations, Stats, Faq, RoutePoints, DividerType2  };
 
